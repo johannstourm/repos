@@ -1,0 +1,8 @@
+{
+    "formatTournoi" : {
+                        "idFormat": 99,
+                        "nomFormat": "FORMATTEST",
+                        "nbCartes": "60",
+                        "commentaires": "format de test"
+    }
+}

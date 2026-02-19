@@ -1,0 +1,8 @@
+{
+    "user" : {
+                "idUser": 99,
+                "nom": "TEST",
+                "prenom": "JOUEUR",
+                "pseudo": "LAMBDA"
+    }
+}

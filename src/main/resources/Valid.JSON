@@ -1,0 +1,29 @@
+{
+	
+    "tournoi" : {
+                    "idTournoi": 2,
+                    "nomTournoi": "EDH_Test",
+                    "formatTournoi": { "idFormat" : 1 }
+                },
+    "lstUser" : [ { "idUser" : 11,
+                    				"nom" : "NewPlayer_EDH_1",
+                    				"prenom" : "NewPlayer_EDH_1",
+                    				"pseudo" : "NewPlayer_EDH_1"
+                    				},
+                    				{ "idUser" : 12,
+                    				"nom" : "NewPlayer_EDH_2",
+                    				"prenom" : "NewPlayer_EDH_2",
+                    				"pseudo" : "NewPlayer_EDH_2"
+                    				},
+                    				{ "idUser" : 13,
+                    				"nom" : "NewPlayer_EDH_3",
+                    				"prenom" : "NewPlayer_EDH_3",
+                    				"pseudo" : "NewPlayer_EDH_3"
+                    				},
+                    				{ "idUser" : 14,
+                    				"nom" : "NewPlayer_EDH_4",
+                    				"prenom" : "NewPlayer_EDH_4",
+                    				"pseudo" : "NewPlayer_EDH_4"
+                    				}
+                    			]
+    }

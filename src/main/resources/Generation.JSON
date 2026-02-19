@@ -1,0 +1,8 @@
+{
+	    "tournoi" : {
+	                    "idTournoi": 1,
+	                    "nomTournoi": "Tounoi_Test",
+	                    "formatTournoi": { "idFormat" : 1 }
+	                },
+		"noRonde" : 2
+}

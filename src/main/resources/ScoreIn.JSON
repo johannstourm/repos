@@ -1,0 +1,21 @@
+{
+	
+		"appariement" : {
+	
+						"idAppariement" : 3059,
+						"tournoi": {
+                                    "idTournoi": 2
+                                },
+						"user1":{
+                                    "idUser": 3
+                                 },
+						"user2":{
+                                    "idUser": 6
+                                 },
+						"noRonde":1
+
+			
+		},
+		"nbRoundPlayer1" : 0,
+		"nbRoundPlayer2" : 1
+}
