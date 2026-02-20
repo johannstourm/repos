@@ -1,3 +1,8 @@
 // Commentaire de première modification dans la branche develop
 // 2nde ligne a enregistrer sur developp et a pousser sur origin
+<<<<<<< HEAD
 // Correction conflit
+=======
+// Correction conflit
+
+>>>>>>> feature1
