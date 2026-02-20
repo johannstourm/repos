@@ -1,3 +1,3 @@
 // Commentaire de première modification dans la branche develop
 // 2nde ligne a enregistrer sur developp et a pousser sur origin
-// Ajout de la ligne de conflit pour develop
+// Correction conflit
